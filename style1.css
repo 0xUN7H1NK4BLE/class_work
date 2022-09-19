@@ -1,9 +1,12 @@
-p{
+/* p{
     color: aquamarine;
-}
+} */
 .red{
     color:violet ;
 }
 .main-div{
-    background-color: aqua;
+    /* background-color: aqua;
+     */
+     color: aliceblue;
+     background-image: url(pic.jpg);
 }
