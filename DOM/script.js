@@ -1,0 +1,1 @@
+document.getElementById("home").style.color = "Blue"
